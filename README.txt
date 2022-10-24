@@ -1,3 +1,3 @@
-Welcome to my homepage: <a href="http://yumaryvasquez.github.io">yumaryvasquez.github.io</a>
+Welcome to my homepage: yumaryvasquez.github.io
 
 This website template was downloaded from HTML5 UP (aj@lkn.io | @ajlkn).
